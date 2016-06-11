@@ -7,33 +7,33 @@
     This launches the TypeScript compiler (tsc) to compile the application and wait for changes. 
     It also starts the lite-server and launches the browser to run the application.
 
-Make HTML make expressive
-Powerfull data binding
-MOdular by dsign
-Built in back end integration
+-Make HTML make expressive
+-Powerfull data binding
+-MOdular by dsign
+-Built in back end integration
 
-Angular 2 
-Built for speed
-Modern - ES6
-support leagacy browser
-Simplified API
-Enhance productiity
+-Angular 2 
+--Built for speed
+--Modern - ES6
+--support leagacy browser
+--Simplified API
+--Enhance productiity
 
 
-Application comprises of componenet
-componenet - template + class[properties , method] + metadata
+-Application comprises of componenet
+--componenet - template + class[properties , method] + metadata
 metadata are decorator extra data for angular
 
-install npm 
-setup angular 2 application
-npm- install libraries packages
+-install npm 
+-setup angular 2 application
+-npm- install libraries packages
 
-setting up angular 2
-create tsconfig.json
-packages.json
-typings.json
-index
-main.ts bootstrapper
+-setting up angular 2
+-create tsconfig.json
+-packages.json
+-typings.json
+-index
+-main.ts bootstrapper
 
 -- angular cli for setting up project
 
